@@ -10,6 +10,8 @@
 * **Integrantes:** 
 * Katherine Deina Nina Alejo
 * Carlos Pacha Cordova
+* Boris Ivan  Cruz Torrico
+* Gabriel Marcelo Alejo Nina
 
 ---
 
